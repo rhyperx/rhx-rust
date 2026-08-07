@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2](https://github.com/rhyperx/rhx-rust/compare/rhx-core-1-v0.1.1...rhx-core-1-v0.1.2) - 2026-08-07
+
+### Added
+
+- *(core)* non breaking change
+
 ## [0.1.1](https://github.com/rhyperx/rhx-rust/compare/rhx-core-1-v0.1.0...rhx-core-1-v0.1.1) - 2026-08-07
 
 ### Added
