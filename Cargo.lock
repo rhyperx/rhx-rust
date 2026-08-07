@@ -3,9 +3,9 @@
 version = 4
 
 [[package]]
-name = "rhx-core"
-version = "0.1.0"
+name = "rhx-core-1"
+version = "0.1.1"
 
 [[package]]
-name = "rhx-macros"
-version = "0.1.0"
+name = "rhx-macros-1"
+version = "0.1.1"
