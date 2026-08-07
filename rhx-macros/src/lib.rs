@@ -2,6 +2,10 @@ pub fn add(left: u64, right: u64) -> u64 {
     left + right
 }
 
+pub fn feat1() {
+    println!("feat1");
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
